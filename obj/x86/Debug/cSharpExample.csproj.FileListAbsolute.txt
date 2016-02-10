@@ -1,0 +1,15 @@
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\obj\x86\Debug\cSharpExample.csprojResolveAssemblyReference.cache
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\ConsoleApplication.exe.config
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\ConsoleApplication.exe
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\ConsoleApplication.pdb
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\Newtonsoft.Json.xml
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.xml
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\eedevadmin\Documents\GitHub\cSharpExample\obj\x86\Debug\ConsoleApplication.pdb

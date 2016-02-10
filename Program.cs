@@ -16,12 +16,12 @@ namespace ConsoleApplication1
     class Program
     {
         private static HttpClient httpClient = null;
-        private static string serverURL = "http://192.168.5.105:8080/rest/";
-        private static string addon = "_gecor-registry8";
+        private static string serverURL = "https://02.g3stiona.com/rest/";
+        private static string addon = ADDON_CORRESPONDIENTE;
         private static Dictionary<string, string> recursosDictionary = new Dictionary<string, string>();
-        private static string token = "_ySe5fabdv.ny0.ZVYA0LLw__d";
-        private static string accessToken = "_VcbW7dbtqL0mKisqZ59P5Q__7";
-        private static bool tokenAutorizado = true;
+        private static string token = null;
+        private static string accessToken = null;
+        private static bool tokenAutorizado = false;
         
         static void Main(string[] args)
         {
